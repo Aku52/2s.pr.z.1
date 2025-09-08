@@ -25,3 +25,4 @@ class Birds:
 
 vorobey  = Birds ("vorobey",True,50 )      
 vorobey.flying_range (10)
+print(" привет")
